@@ -1,5 +1,6 @@
 html {
     background-color:  #F9FAFB;
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
 }
 
 body {
@@ -42,7 +43,14 @@ button.operator {
     background-color: rgb(255, 146, -2);
 }
 
-button.top {
+button.equal {
+    background-color: rgb(255, 146, -2);
+
+}
+
+button.backspace,
+.percent,
+.clear {
     background-color: #757372;
 }
 
